@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="index-one.css">
+        <script src="js.js"></script>
+        <title>Chemistry</title>
+<script data-ad-client="ca-pub-7368913091060841" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    </head>
+    <body>
+     <div class="container">
+      <div class="vkladki">
+       <a href="#"><button class="vkladkaone">Поиск элементов</button></a>
+       <a href="tablitzha-mendeleeva.html" target="_blank"><button class="vkladkatwo">Таблица Менделеева</button></a>
+      </div>
+      <div class="face" align="center">
+       <table class="tbface">
+        <tr>
+         <td>
+          <h2 class="txtanim">
+<br><br><br>
+Данное приложение дает вам
+возможность быстро найти 
+какой-либо элемент в
+таблице менделеева по 
+порядковому номеру или 
+по относительной 
+атомной массе.
+Также вы можете ввести 
+элемент и получить информацию 
+о нём.<br><hr><br><br><br><br>
+          <form action="#" onclick="letter()">
+           <button class="button">Найти элемент по названию</button>
+          </form>
+          <form action="#" onclick="number()">
+           <button class="button">Найти элемент по порядковому номеру</button>
+          </form>
+          <form action="#" onclick="oam()">
+           <button class="button">Найти элемент по относительной атомной массе</button>
+          </form>          
+           <pre class="txtanim">
+<p class="imp">
+Обозначения:</p>
+Название элемента - буква / буквы / название
+(например: Cu, Купрум, Медь)
+Найти все неметаллы - NM
+Найти все металлы - M
+Найти щелочные металлы - HM
+Найти щелочноземельные металлы - HZM
+Найти инертные газы - IG
+           </pre>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <pre><i>
+By
+Volodya
+And
+Dirty Design
+<h2 class="txtanim"><a href="o-nas.html">О нас       </a><a href="o-site.html">О сайте</a></pre></i></h2><br><hr>
+         </td>
+        </tr>
+       </table>
+      </div>
+     </div>
+    </body>
+</html>

@@ -1,0 +1,83 @@
+html {
+    background-color:#131315
+}
+ .header {
+    background:#458585;
+    position:absolute;
+    border-radius:35px;
+    width:90%;
+    height:10%;
+    margin:0% -100%;
+    animation-name:animhead;
+    animation-duration:1400ms;
+    animation-fill-mode:forwards;
+}
+.pheader {
+    color:white;
+    font-size:325%;
+    font-weight:bolder;
+    font-family:serif;
+    margin:1% 2.8%;
+    position:absolute;
+}
+#hr1 {
+    width:0%;
+    margin-top:20%;
+    box-shadow:0px 0px 8px #eee;
+    border-radius:100px;
+    animation-name:hr1;
+    animation-duration:1200ms;
+    animation-delay:1500ms;
+    animation-fill-mode:forwards;
+}
+.face {
+    width:85%;
+    height:310%;
+    position:absolute;
+    background-color:#323535;
+    color:#eee;
+    margin:25% 6%;
+    box-shadow:0px 0px 4px #323535;
+    border-radius:10px;
+}
+.avtor {
+    color:#ddd;
+    font-weight:bold;
+    font-variant:small-caps;
+    font-size:200%;
+    text-decoration:underline;
+}
+p {
+    font-family:Calibri;
+    font-weight:normal;
+    color:#fff;
+    margin:0 3.5%
+    word-spacing:10;
+    font-size:230%;
+}
+a {
+    font-size:180%;
+    font-family:Calibri;
+    font-weight:normal;
+    color:#fff; 
+    margin:0% 3.5%;
+}
+
+ @keyframes animhead {
+    0% { margin:0% -100%; }
+    65% { margin:0% 9%; }
+    100% { margin:0% 3%; }
+}
+@-webkit-keyframes animhead {
+    0% { margin:0% -100%; }
+    65% { margin:0% 9%; }
+    100% { margin:0% 3%; }
+}
+@keyframes hr1 {
+    from { width:0%; }
+    to { width:30%; }
+}
+@-webkit-keyframes hr1 {
+    from { width:0%; }
+    to { width:30%; }
+}

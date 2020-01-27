@@ -1,0 +1,164 @@
+html {
+    background-color:#aaa;
+}
+.bgheader {
+    position:absolute;
+    width:100%;
+    height:50%;
+    background-color:#ddd;
+    margin:0 -0.5%;
+    box-shadow:0 0 30px #555;
+}
+.bghheader {
+    position:relative;
+    width:89%;
+    height:10%;
+    background-color:#eee;
+    margin:-2.6% 5.5%;
+    border-radius:0 0 50px 50px;
+    box-shadow:0 0 25px #aaa;
+}
+.bgosnovateli {
+    position:absolute;
+    background-color:#59216D;
+    box-shadow:0px 0px 35px #555;
+    margin:30% -8px;
+    width:100%;
+    height:50%;
+}
+.osnovatelih {
+     color:white;
+     font-weight:bolder;
+     font-size:200%;
+}
+.vovab {
+    position:absolute;
+    margin:7.3% 6%;
+    background-color:red;
+    border-radius:100px;
+    width:30px;
+    height:30px;
+}
+.sashab {
+    position:absolute;
+    margin:8% 68%;
+    background-color:red;
+    border-radius:100%;
+    width:30px;
+    height:30px;
+}
+.vovainst {
+    position:absolute;
+    color:#fff;
+    font-size:205%;
+    font-weight:bold;
+    font-family:sans-serif;
+    text-decoration:none;
+    margin:8% 8%;
+}
+.vovainst:hover {
+    cursor:default;
+    animation-name:animinst;
+    animation-duration:0.4s;
+    animation-fill-mode:forwards;
+}
+.sashainst {
+    position:absolute;
+    color:#fff;
+    font-size:205%;
+    font-weight:bold;
+    font-family:sans-serif;
+    text-decoration:none;
+    margin:8% 70%;
+}
+.sashainst:hover {
+    cursor:default;
+    animation-name:animinst;
+    animation-duration:0.4s;
+    animation-fill-mode:forwards;
+}
+.hheader {
+    font-size:45px;
+    font-weight:bolder;
+    font-family:serif;
+    color:#4444ca;
+    text-shadow:2px 1px 3px #222266;
+}
+.txtheader {
+    font-size:25px;
+    font-weight:bold;
+    font-family:serif;
+    color:#22228f;
+    text-shadow:1px 1px 1px #7777aa;
+}
+hr {
+    background-color:#2222a7;
+    width:80%;
+    border-color:#2222a7;
+    border-radius:100px;
+}
+.full {
+    background-color:#2222a7;
+    width:100%;
+    border-color:#2222a7;
+    border-radius:100px;
+}
+.osnhr {
+    position:absolute;
+    background-color:#ddd;
+    width:80%;
+    border-color:#ddd;
+    border-radius:100px;
+    margin:0 7%;
+}
+.central {
+    background-color:#eee;
+    border-radius:15px;
+    width:100%;
+    height:2300px;
+    margin:75% 0;
+}
+.fchp {
+    color:#6211BF;
+    font-size:540%;
+    font-variant:small-caps;
+    margin:3% 10%;
+}
+.fchd {
+    color:#6211BF;
+    font-size:180%;
+    font-variant:small-caps;
+    margin:0 8%;
+}
+.hdescription {
+    color:#3A20E8;
+    font-size:400%;
+    font-weight:bolder;
+    font-variant:small-caps;
+    margin:-40% 40%;
+}
+.description {
+    position:absolute;
+    color:#3A20E8;
+    font-size:180%;
+    font-weight:bold;
+    font-variant:small-caps;
+    letter-spacing:110;
+    margin:48% 26%;
+}
+.bgsite {
+    position:absolute;
+    background-color:#fff;
+    box-shadow:0 0 25px #aaa;
+    border-radius:40px;
+    margin:4% 4%;
+    width:65%;
+    height:50%;
+}
+.site {
+    text-decoration:none;
+}
+@keyframes animinst {
+    0% { text-decoration:none; color:#fff; }
+    100% { text-decoration:underline; color:#eee; }
+}

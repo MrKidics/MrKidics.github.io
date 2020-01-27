@@ -1,0 +1,36 @@
+<!doctype html>
+ <html>
+  <head>
+   <meta charset="UTF-8" name="viewport">
+   <link rel="stylesheet" href="stasbuk.css">
+   <title>Chemistry</title> 
+  </head>
+  <body>
+   <div class="container">
+    <div class="vkladki">
+     <a href="index.html"><button class="vkladkaone">Поиск элементов</button></a>
+     <a href="news.html" target="_blank"><button class="vkladkatwo">Новости сайта</button></a>
+     <a href="tablitzha-mendeleeva"><button class="vkladkathree"></button></a>
+    </div>
+    <div class="face">
+      <h2 class="headh" align="center">
+       Обновления:
+      </h2>
+     <br/><hr/><br/><br/>
+      <pre class="facepre">
+
+01.12.19:
+ - В качестве оптимизации сайта были убраны анимации. Также
+ они были практически незаметными, поэтому на внешний вид
+ никак не влияли. 
+          
+<hr/>          
+          
+30.11.19:
+- Создана страница, где будут опубликовываться обновления
+сайта.
+      </pre>
+    </div>
+   </div>
+  </body>
+ </html>

@@ -1,0 +1,72 @@
+body {
+    background: url("https://cdn.discordapp.com/attachments/603942833442783253/634085077826928660/4bd7bbf1b4c8e693.jpg");
+    background-size:200% 480%;
+    background-repeat:no-repeat;
+}
+.headh {
+    color:#000;
+    font-size:260%;
+    font-family:fantasy;
+    margin:0 4%;
+    text-decoration:underline;
+}
+.facepre {
+    font-size:200%;
+    font-family:serif;
+    font-weight:bolder;
+    margin:0 2%;
+    text-shadow:2px 1px 1px #888;
+    
+}
+vkladkaone {
+    position:absolute;
+    background-color:#fefefe; 
+    width:38%;
+    height:100px;
+    border-radius:30px 30px 0 0;
+    border:0;
+    font-size:160%;
+    font-weight:bold;
+    color:#112;
+    margin:0 -1.1%;
+}
+.vkladkatwo {
+    position:absolute;
+    background-color:#ccc; 
+    width:38%;
+    height:100px;
+    border-radius:30px 30px 0 0;
+    border:0;
+    font-size:160%;
+    font-weight:bold;
+    color:#112;
+    margin:0 34.8%;
+}
+.vkladkathree {
+    position:absolute;
+    background-color:#ccc; 
+    width:38%;
+    height:100px;
+    border-radius:30px 30px 0 0;
+    border:0;
+    font-size:160%;
+    font-weight:bold;
+    color:#112;
+    margin:0 70.8%;
+}
+.face {
+    background: url("https://cdn.discordapp.com/attachments/603942833442783253/633369908553711626/893c9709e29e5dae.jpg");
+    background-size:100% 100%;
+    width:1150px;
+    height:1550px;
+    border-radius:6px;
+    box-shadow:0 0 12px #111;
+    margin:105px 0;
+}
+hr {
+    width:92%;
+    height:3px;
+    background-color:#050555;
+    border-color:#050555;
+    border-radius:20px;
+}

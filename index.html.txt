@@ -1,0 +1,68 @@
+<!doctype html>
+ <html>
+  <head>
+   <meta charset="UTF-8" name="viewport">
+   <link rel="stylesheet" href="findsite.css">
+   <script data-ad-client="ca-pub-7368913091060841" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+   <title>FindSitE</title>
+  </head>
+  <body>
+   <div class="container">
+    <div class="header">
+     <div class="bgheader">
+      <br>
+     </div>
+      <div class="bghheader" align="center">
+       <h2 class="hheader">FindSitE</h2>
+        <hr/><br/>
+       <h3 class="txtheader">Крупный и развивающийся проект, который предоставляет вам спектр сайтов на различную тематику. На них вы можете получить информацию о нужном, допустим, гитарном аккорде или химическом элементе.</h3>
+     </div>
+     <div class="bgosnovateli">
+      <p class="osnovatelih" align="center">Создатели проекта:</p>
+       <br><hr class="osnhr" align="center">
+      <a class="vovainst" href="https://www.instagram.com/vovanchikoduvanchik">Владимир Печерский</a>
+      <pre><a class="sashainst" href="https://www.instagram.com/romanchuk_sasha">Александр Романчук</a></pre>
+       <div class="vovab"><p style="color:red; font-size:1px;">F</p></div>
+       <div class="sashab"><p style="color:red; font-size:1px;">F</p></div>
+     </div>
+    </div>
+    <div class="face">
+     <div class="central">
+      <p class="fchp">Список сайтов:</p>
+       <hr><br><br>
+      <p class="fchd">Выбери нужный сайт и нажми на него.</p>
+       <br><br><br><br><br><br><hr class="full">
+        <a href="chemistryfindelem.html" class="site">
+         <div class="bgsite">
+          <img src="https://cdn.discordapp.com/attachments/521767712792379414/658964822599270410/97a65d686771764f.png">
+          <p class="hdescription">Химия</p>
+          <pre class="description">
+              На данном сайте Вы, введя химический элемент, сможете получить<br>
+              довольно обширную информацию о нём.</pre>
+         </div>
+        </a>
+         <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <a href="http://guitarfindaccords.000webhostapp.com" class="site">
+         <div class="bgsite">
+          <img src="https://cdn.discordapp.com/attachments/521767712792379414/658964827397554186/cb09bdce199b9609.png">
+          <p class="hdescription">Гитарные аккорды</p>
+          <pre class="description">
+              На данном сайте Вы, введя аккорд, сможете получить<br>
+              довольно обширную информацию о нём.</pre>
+         </div>
+        </a>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <a href="http://guitarfindaccords.000webhostapp.com" class="site">
+         <div class="bgsite">
+          <img src="https://cdn.discordapp.com/attachments/521767712792379414/658964828806971423/2a1bebaf8e78d2df.png">
+          <p class="hdescription">Разработка</p>
+          <pre class="description">
+              Сейчас ведётся активная разработка данного сайта.<br>
+              А пока Вы можете посетить наши другие проекты!</pre>
+         </div>
+        </a>
+     </div>
+    </div>
+   </div>
+  </body>
+ </html>

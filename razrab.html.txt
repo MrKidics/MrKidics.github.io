@@ -1,0 +1,8 @@
+<html>
+ <head>
+  <title>Временно недоступен</title>
+ </head>
+ <body>
+  <h2 align="center">К сожалению,  сайт временно недоступен. Сейчас создается большое обновление,  но чтобы его полностью загрузить,  нам требуется немного времени.<br> <i> Мы извиняемся за предоставленные неудобства :/</i><hr/>The site is off now. We are doing new update, but for upload it full,  we need some time. <br/><i>We are so sorry for it</i></h3>
+ </body>
+</html>

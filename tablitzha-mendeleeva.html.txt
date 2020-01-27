@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" name="viewport">
+        <link type="stylesheet" href="style.css">
+        <script src="tjs.js"></script>
+        <link rel="stylesheet" href="tablitzha-mendeleeva.css">
+        <title>Chemistry</title>
+    </head>
+    <body>
+     <div class="container">
+        <h2 class="tbmh">Перед вами представлена таблица Менделеева. Вы можете просто нажать на нужный вам элемент и получить информацию о нём:</h2>  
+       </div>
+       <div class="tabl" align="left" style="margin:2% 4%;">
+        <table width="100%" border="1px" style="border-color:#eee; border-radius:10px;" class="tablma">
+         <tbody style="text-align:center;">
+          <tr>
+           <td><p></p></td>
+           <td><p>a <b>&#8544;</b> b</p></td>
+           <td><p>a <b>&#8545;</b> b</p></td>
+           <td><p>a <b>&#8546;</b> b</p></td>
+           <td><p>a <b>&#8547;</b> b</p></td>
+           <td><p>a <b>&#8548;</b> b</p></td>
+           <td><p>a <b>&#8549;</b> b</p></td>
+           <td><p>a <b>&#8550;</b> b</p></td>
+           <td><p>a <b>&#8551;</b> b</p></td>
+           <td><p>a <b>&#8551;</b> b</p></td>
+           <td><p>a <b>&#8551;</b> b</p></td>
+          </tr>
+          <tr>
+           <td><b><br>1<br>.</b></td>
+           <td><form onclick="h()">H</form></td>
+           <td><form onclick=""></form></td>
+           <td><form onclick=""></form></td>
+           <td><form onclick=""></form></td>
+           <td><form onclick=""></form></td>
+           <td><form onclick=""></form></td>
+           <td><form onclick=""></form></td>
+           <td><form onclick="he()">He</form></td>
+           <td><form onclick=""></form></td>
+           <td><form onclick=""></form></td>
+          </tr>
+          <tr>
+           <td><b><br>2<br>.</b></td>
+           <td><form onclick="li()">Li</form></td>
+           <td><form onclick="be()">Be</form></td>
+           <td><form onclick="b()">B</form></td>
+           <td><form onclick="c()">C</form></td>
+           <td><form onclick="n()">N</form></td>
+           <td><form onclick="o()">O</form></td>
+           <td><form onclick="f()">F</form></td>
+           <td><form onclick="ne()">Ne</form></td>
+           <td><form onclick=""></form></td>
+           <td><form onclick=""></form></td>
+          </tr>
+          <tr>
+           <td><b><br>3<br>.</b></td>
+           <td><form onclick="na()">Na</form></td>
+           <td><form onclick="mg()">Mg</form></td>
+           <td><form onclick="al()">Al</form></td>
+           <td><form onclick="si()">Si</form></td>
+           <td><form onclick="p()">P</form></td>
+           <td><form onclick="s()">S</form></td>
+           <td><form onclick="cl()">Cl</form></td>
+           <td><form onclick="ar()">Ar</form></td>
+           <td><form onclick=""></form></td>
+           <td><form onclick=""></form></td>
+          </tr>
+          <tr>
+           <td><b><br>4<br>.</b></td>
+           <td><form onclick="k()">K</form></td>
+           <td><form onclick="ca()">Ca</form></td>
+           <td><form onclick="sc()">Sc</form></td>
+           <td><form onclick="ti()">Ti</form></td>
+           <td><form onclick="v()">V</form></td>
+           <td><form onclick="cr()">Cr</form></td>
+           <td><form onclick="mn()">Mn</form></td>
+           <td><form onclick="fe()">Fe</form></td>
+           <td><form onclick="co()">Co</form></td>
+           <td><form onclick="ni()">Ni</form></td>
+          </tr>
+          <tr>
+           <td><b><br>4<br>.</b></td>
+           <td><form onclick="cu()">Cu</form></td>
+           <td><form onclick="zn()">Zn</form></td>
+           <td><form onclick="ga()">Ga</form></td>
+           <td><form onclick="ge()">Ge</form></td>
+           <td><form onclick="as()">As</form></td>
+           <td><form onclick="se()">Se</form></td>
+           <td><form onclick="br()">Br</form></td>
+           <td><form onclick="kr()">Kr</form></td>
+           <td><form onclick=""></form></td>
+           <td><form onclick=""></form></td>
+          </tr>
+          <tr>
+           <td><b><br>5<br>.</b></td>
+           <td><form onclick="rb()">Rb</form></td>
+           <td><form onclick="sr()">Sr</form></td>
+           <td><form onclick="y()">Y</form></td>
+           <td><form onclick="zr()">Zr</form></td>
+           <td><form onclick="nb()">Nb</form></td>
+           <td><form onclick="mo()">Mo</form></td>
+           <td><form onclick="tc()">Tc</form></td>
+           <td><form onclick="ru()">Ru</form></td>
+           <td><form onclick="rh()">Rh</form></td>
+           <td><form onclick="pd()">Pd</form></td>
+          </tr>
+          <tr>
+           <td><b><br>5<br>.</b><br></td>
+           <td><form onclick="ag()">Ag</form></td>
+           <td><form onclick="cd()">Cd</form></td>
+           <td><form onclick="IN()">In</form></td>
+           <td><form onclick="sn()">Sn</form></td>
+           <td><form onclick="sb()">Sb</form></td>
+           <td><form onclick="te()">Te</form></td>
+           <td><form onclick="i()">I</form></td>
+           <td><form onclick="xe()">Xe</form></td>
+           <td><form onclick=""></form></td>
+           <td><form onclick=""></form></td>
+          </tr>
+          <tr>
+           <td><b><br>6<br>.</b></td>
+           <td><form onclick="cs()">Cs</form></td>
+           <td><form onclick="ba()">Ba</form></td>
+           <td><form onclick="la()">La*</form></td>
+           <td><form onclick="hf()">Hf</form></td>
+           <td><form onclick="ta()">Ta</form></td>
+           <td><form onclick="w()">W</form></td>
+           <td><form onclick="re()">Re</form></td>
+           <td><form onclick="os()">Os</form></td>
+           <td><form onclick="ir()">Ir</form></td>
+           <td><form onclick="pt()">Pt</form></td>
+          </tr>
+          <tr>
+           <td><b><br>6<br>.</b></td>
+           <td><form onclick="au()">Au</form></td>
+           <td><form onclick="hg()">Hg</form></td>
+           <td><form onclick="tl()">Tl</form></td>
+           <td><form onclick="pb()">Pb</form></td>
+           <td><form onclick="bi()">Bi</form></td>
+           <td><form onclick="po()">Po</form></td>
+           <td><form onclick="at()">At</form></td>
+           <td><form onclick="rn()">Rn</form></td>
+           <td><form onclick=""></form></td>
+           <td><form onclick=""></form></td>
+          </tr>
+          <tr>
+           <td><b><br>7<br>.</b></td>
+           <td><form onclick="fr()">Fr</form></td>
+           <td><form onclick="ra()">Ra</form></td>
+           <td><form onclick="ac()">Ac**</form></td>
+           <td><form onclick="rf()">Rf</form></td>
+           <td><form onclick="db()">Db</form></td>
+           <td><form onclick="sg()">Sg</form></td>
+           <td><form onclick="bh()">Bh</form></td>
+           <td><form onclick="hs()">Hs</form></td>
+           <td><form onclick="mt()">Mt</form></td>
+           <td><form onclick="ds()">Ds</form></td>
+          </tr>
+          <tr>
+           <td><b><br>7<br>.</b></td>
+           <td><form onclick="rg()">Rg</form></td>
+           <td><form onclick="cn()">Cn</form></td>
+           <td><form onclick=""></form></td>
+           <td><form onclick="fl()">Fl</form></td>
+           <td><form onclick=""></form></td>
+           <td><form onclick="lv()">Lv</form></td>
+           <td><form onclick=""></form></td>
+           <td><form onclick="uuo()">Uuo/Og</form></td>
+           <td><form onclick=""></form></td>
+           <td><form onclick=""></form></td>
+          </tr>
+          <tr>
+           <td><b>Выс. О.:</b></td>
+           <td><form onclick=""><b>E2O</b></form></td>
+           <td><form onclick=""><b>EO</b></form></td>
+           <td><form onclick=""><b>E2O4</b></form></td>
+           <td><form onclick=""><b>EO2</b></form></td>
+           <td><form onclick=""><b>E2O5</b></form></td>
+           <td><form onclick=""><b>EO3</b></form></td>
+           <td><form onclick=""><b>E207</b></form></td>
+           <td><form onclick=""><b>EO4</b></form></td>
+           <td><form onclick=""><b>EO4</b></form></td>
+           <td><form onclick=""><b>EO4</b></form></td>
+          </tr>
+          <tr>
+           <td><b style="letter-spacing:0.1px; word-spacing:1px;">Лет. соед. с гидр.:</b></td>
+           <td><form onclick=""></form></td>
+           <td><form onclick=""></form></td>
+           <td><form onclick=""></form></td>
+           <td><form onclick=""><b>EH4</b></form></td>
+           <td><form onclick=""><b>EH3</b></form></td>
+           <td><form onclick=""><b>H2E</b></form></td>
+           <td><form onclick=""><b>HE</b></form></td>
+           <td><form onclick=""></form></td>
+           <td><form onclick=""></form></td>
+           <td><form onclick=""></form></td>
+          </tr>
+         </tbody>
+        </table>
+       </div>
+    </body>
+</html>
